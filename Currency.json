@@ -1,0 +1,11 @@
+[
+  {
+    "debit": [
+      "currency": €,
+      "card": "debit",
+      "name": "",
+      "cvc": 0,
+      "money": 100
+    ]
+  }
+]
