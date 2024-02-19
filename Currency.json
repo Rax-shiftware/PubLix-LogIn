@@ -1,7 +1,9 @@
 [
   {
     "debit": [
-      "currency": €,
+      "currency": [
+      "type": "Eur"
+      ],
       "card": "debit",
       "name": "",
       "cvc": 0,
